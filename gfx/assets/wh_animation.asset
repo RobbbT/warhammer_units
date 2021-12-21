@@ -1,0 +1,27 @@
+prepend = "gfx/models/animation/dwarves"
+
+animation = {
+	name = "dwarf_warrior_attack_animation"
+	file = "dwarf_warrior_attack.anim"
+}
+animation = {
+	name = "dwarf_warrior_idle_animation"
+	file = "dwarf_warrior_idle.anim"
+}
+animation = {
+	name = "dwarf_warrior_moving_animation"
+	file = "dwarf_warrior_moving.anim"
+}
+
+animation = {
+	name = "dwarf_thunderer_attack_animation"
+	file = "dwarf_thunderer_attack.anim"
+}
+animation = {
+	name = "dwarf_thunderer_idle_animation"
+	file = "dwarf_thunderer_idle.anim"
+}
+animation = {
+	name = "dwarf_thunderer_moving_animation"
+	file = "dwarf_thunderer_moving.anim"
+}
