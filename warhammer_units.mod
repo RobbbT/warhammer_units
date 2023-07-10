@@ -1,5 +1,5 @@
 name = "Warhammer: Geheimnisnacht Units"
 path = "mod/warhammer_units"
-dependencies = { "WH-Geheimnisnacht"}
+dependencies = { "wh-geheimnisnacht_v1.3.7.1"}
 
-user_dir = "WH-Geheimnisnacht"
+user_dir = "wh-geheimnisnacht_v1.3.7.1"
