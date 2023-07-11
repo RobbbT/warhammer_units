@@ -3011,6 +3011,8 @@ objectTypes = {
 		animation = { id = "idle"  type = "gor_idle_animation" }
 		animation = { id = "move"  type = "gor_moving_animation" }
 	}
+
+	
 	
 	###Dwarves
 	pdxmesh = {
@@ -3519,5 +3521,43 @@ objectTypes = {
 		animation = { id = "attack"  type = "clanrat_attack_animation" }
 		animation = { id = "idle"  type = "clanrat_idle_animation" }
 		animation = { id = "move"  type = "clanrat_moving_animation" }
+	}
+
+	###Zombies
+	pdxmesh = {
+		name = "westerngfx_undead_horde"
+		file = "gfx/models/vampire/zombie.mesh"
+	    scale = 0.7f
+
+		animation = { id = "attack"  type = "zombie_attack_animation" }
+		animation = { id = "idle"  type = "zombie_idle_animation" }
+		animation = { id = "move"  type = "zombie_moving_animation" }
+	}
+	pdxmesh = {
+		name = "easterngfx_undead_horde"
+		file = "gfx/models/vampire/zombie.mesh"
+	    scale = 0.7f
+
+		animation = { id = "attack"  type = "zombie_attack_animation" }
+		animation = { id = "idle"  type = "zombie_idle_animation" }
+		animation = { id = "move"  type = "zombie_moving_animation" }
+	}
+	pdxmesh = {
+		name = "muslimgfx_undead_horde"
+		file = "gfx/models/vampire/zombie.mesh"
+	    scale = 0.7f
+
+		animation = { id = "attack"  type = "zombie_attack_animation" }
+		animation = { id = "idle"  type = "zombie_idle_animation" }
+		animation = { id = "move"  type = "zombie_moving_animation" }
+	}
+	pdxmesh = {
+		name = "norsegfx_undead_horde"
+		file = "gfx/models/vampire/zombie.mesh"
+	    scale = 0.7f
+
+		animation = { id = "attack"  type = "zombie_attack_animation" }
+		animation = { id = "idle"  type = "zombie_idle_animation" }
+		animation = { id = "move"  type = "zombie_moving_animation" }
 	}
 }

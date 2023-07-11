@@ -866,3 +866,17 @@ animation = {
 	name = "gor_moving_animation"
 	file = "/beastmen/gor_moving_anim.anim"
 }
+
+##Zombies
+animation = {
+	name = "zombie_attack_animation"
+	file = "/vampire/zombie_attack.anim"
+}
+animation = {
+	name = "zombie_idle_animation"
+	file = "/vampire/zombie_idle.anim"
+}
+animation = {
+	name = "zombie_moving_animation"
+	file = "/vampire/zombie_moving.anim"
+}
